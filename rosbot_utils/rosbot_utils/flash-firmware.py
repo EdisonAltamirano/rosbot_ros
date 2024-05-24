@@ -101,10 +101,9 @@ class FirmwareFlasher:
                     print(f"[ERROR] [{operation_name}]: \n\t{stderr}.")
                 else:
                     break
-            time.sleep(0.2) # Delay between attempts
+            time.sleep(0.2)  # Delay between attempts
 
         self.exit_bootloader_mode()
-
 
     def flash_firmware(self):
         # Disable the flash write-protection
