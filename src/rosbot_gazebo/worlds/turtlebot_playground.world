@@ -602,23 +602,23 @@
         <trajectory id="0" type="walking">
           <waypoint>
             <time>0</time>
-            <pose>2 0 0 0 0 -1.57</pose>
+            <pose>5 0 0 0 0 -1.57</pose>
           </waypoint>
           <waypoint>
-            <time>4</time>
-            <pose>4 0 0 0 0 -1.57</pose>
+            <time>20</time>
+            <pose>8 0 0 0 0 -1.57</pose>
           </waypoint>
           <waypoint>
-            <time>4.5</time>
-            <pose>4 0 0 0 0 1.57</pose>
+            <time>20.5</time>
+            <pose>8 0 0 0 0 1.57</pose>
           </waypoint>
           <waypoint>
-            <time>10</time>
-            <pose>4 4 0 0 0 1.57</pose>
+            <time>27</time>
+            <pose>8 2 0 0 0 1.57</pose>
           </waypoint>
           <waypoint>
-            <time>10.5</time>
-            <pose>4 4 0 0 0 -1.57</pose>
+            <time>27.5</time>
+            <pose>8 2 0 0 0 -1.57</pose>
           </waypoint>
         </trajectory>
       </script>
